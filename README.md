@@ -1,7 +1,9 @@
 
 # Project2_Pattern_Recognition-Machine-Learning
 
-This repository contains the code and report for Project 2 of the Pattern Recognition and Machine Learning course. The project focuses on applying machine learning algorithms to classify different types of images of people based on their identity.
+This repository contains the code and report for Project 2 of the Second Project in the course Pattern Recognision - Machine Learning offered by the National Kapodistrian University of Athens in the academic year 2021-2022. 
+
+The project focuses on applying machine learning algorithms to classify different types of images of people based on their facial features.
 
 In addition, this repository also includes the solutions to two exercises:
 - Exercise 1: Logistic Regression and Overfitting
